@@ -11,13 +11,13 @@ Este repositório contém uma coleção de exercícios em JavaScript para pratic
 ## 🛠️ Instalação
 
 ### 1. Clonar o repositório
--bash
+- bash
 git clone git@github.com:pedro-idiarte/exercicios-basicos-maisprati.git
 cd seu-repositorio
 
 ### 2. Instalar dependências
 - O projeto utiliza o pacote prompt-sync para entrada de dados via terminal:
--bash
+- bash
 npm install prompt-sync
 
 ## 🚀 Como executar
@@ -25,7 +25,7 @@ npm install prompt-sync
 - Salve o código em um arquivo com extensão .js (ex: exercicios.js).
 - Execute o programa via terminal:
 
--bash
+- bash
 node listaUm.js
 
 - Siga as instruções do menu interativo.
