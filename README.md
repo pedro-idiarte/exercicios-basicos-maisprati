@@ -11,7 +11,7 @@ Este repositório contém uma coleção de exercícios em JavaScript para pratic
 ## 🛠️ Instalação
 
 ### 1. Clonar o repositório
-- 
+
 git clone git@github.com:pedro-idiarte/exercicios-basicos-maisprati.git
 cd seu-repositorio
 
@@ -25,7 +25,6 @@ npm install prompt-sync
 - Salve o código em um arquivo com extensão .js (ex: exercicios.js).
 - Execute o programa via terminal:
 
-- 
 node listaUm.js
 
 - Siga as instruções do menu interativo.
