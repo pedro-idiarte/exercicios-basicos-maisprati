@@ -17,7 +17,7 @@ cd seu-repositorio
 
 ### 2. Instalar dependências
 - O projeto utiliza o pacote prompt-sync para entrada de dados via terminal:
-- 
+
 npm install prompt-sync
 
 ## 🚀 Como executar
